@@ -1,7 +1,4 @@
 test hello world
 test
-<<<<<<< HEAD
 test3
-=======
 test2
->>>>>>> 69173667f1fa0d83e305e8f1718013e52cc55d28
